@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "*.embeddedhtml": "html",
+    "*.erb": "html.erb",
+    "cmath": "c"
+  },
+  "cmake.configureOnOpen": false
+}
