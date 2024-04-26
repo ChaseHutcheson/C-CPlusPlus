@@ -2,7 +2,8 @@
 #include <limits.h>
 #include <float.h>
 
-int main() {
+int main()
+{
     printf("%-20s%-15s%-20s%-20s%-20s\n", "Data Type", "Memory Usage", "Format Specifier", "Minimum", "Maximum");
     printf("------------------------------------------------------------------------------------------------\n");
     printf("%-20s%-15lu%-20s%-20d %d\n", "char", sizeof(char), "%c", CHAR_MIN, CHAR_MAX);

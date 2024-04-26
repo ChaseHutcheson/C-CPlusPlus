@@ -3,7 +3,10 @@
     "*.embeddedhtml": "html",
     "*.erb": "html.erb",
     "cmath": "c",
-    "string.h": "c"
+    "string.h": "c",
+    "iostream": "c",
+    "istream": "cpp",
+    "windows.h": "c"
   },
   "cmake.configureOnOpen": false
 }
